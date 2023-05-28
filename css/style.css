@@ -264,7 +264,6 @@ h1.company-name {
   width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
-  filter: sepia();
   border-radius: 5px;
   transition: transform 0.5s;
 }
